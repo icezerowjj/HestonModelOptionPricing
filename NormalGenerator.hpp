@@ -1,19 +1,4 @@
 // NormalGenerator.hpp
-//
-// A class hierarchy for generating random numbers, 
-// vectors and matrices.
-// 
-// This hierarchy uses the Template Method Pattern and it
-// delegates to a Strategy pattern for generating uniform
-// random numbers.
-//
-// The solution is object-oriented and uses run-time polymorphic
-// functions. In another chapter we use policy classes and templates.
-//
-// 2012-17 DD restrict to Boost
-//
-// (C) Datasim Education BV 2008-2012
-//
 
 #ifndef NormalGenerator_HPP
 #define NormalGenerator_HPP
